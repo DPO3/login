@@ -2,8 +2,8 @@ const form = document.querySelector("form");
 const inputs = form.elements;
 
 const registeredUsers = [
-  ["Frusiee", "dpkisa03kisa"],
-  ["Пользователь", "player"],
+  ["Frusiee", "1234567"],
+  ["Пользователь", "user"],
 ];
 
 function isValid(username, password) {   
