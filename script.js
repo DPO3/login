@@ -29,7 +29,7 @@ form.addEventListener('submit', function(e){
         message.innerHTML = 'Неверные данные!';}
          else {
         setTimeout(function(){
-            window.location.href = 'index2.html';
+            window.location.href = 'https://youtu.be/dQw4w9WgXcQ';
           }, 2 * 1000);
           { message1.innerHTML = 'Успешный вход!';}
           { message.innerHTML = '';}
